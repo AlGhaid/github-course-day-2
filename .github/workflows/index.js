@@ -1,1 +1,1 @@
-const first_name = "Ghaid"
+const FIRST_NAME = "Ghaid"
