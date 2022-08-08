@@ -1,1 +1,1 @@
-const first_name = "Ghaid";
+const first_name = "Ghaid"
